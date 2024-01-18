@@ -5,3 +5,5 @@ import pandas as pd
 
 # pandas Series* one-dimensional labeled array
 ser = pd.Series(data=[100, 200, 300, 400, 500], index=['tom', 'bob', 'nancy', 'dan', 'eric'])
+
+# pandas Dataframes is a tw0 dimension labelled array
