@@ -8,5 +8,5 @@ ser = pd.Series(data=[100, 200, 300, 400, 500], index=['tom', 'bob', 'nancy', 'd
 
 # pandas Dataframes is a two dimension labelled array
 
-d = {'one' : pd.Series([100., 200., 300.], index=['apple', 'ball', 'clock']),
-     'two' : pd.Series([111., 222., 333., 4444.], index=['apple', 'ball', 'cerill', 'dancy'])}
+d = {'one' : pd.Series([100., 200., 300.], index=['stars', 'moon', 'pillows']),
+     'two' : pd.Series([111., 222., 333., 4444.], index=['stars', 'pillows', 'cerill', 'dancy'])}
