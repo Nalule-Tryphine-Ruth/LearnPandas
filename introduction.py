@@ -10,3 +10,6 @@ ser = pd.Series(data=[100, 200, 300, 400, 500], index=['tom', 'bob', 'nancy', 'd
 
 d = {'one' : pd.Series([100., 200., 300.], index=['stars', 'moon', 'pillows']),
      'two' : pd.Series([111., 222., 333., 4444.], index=['stars', 'pillows', 'cerill', 'dancy'])}
+
+df = pd.DataFrame(d)
+print(df)
