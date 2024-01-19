@@ -13,3 +13,5 @@ d = {'one' : pd.Series([100., 200., 300.], index=['stars', 'moon', 'pillows']),
 
 df = pd.DataFrame(d)
 print(df)
+
+# Create DataFrame from list of Python dictionaries
