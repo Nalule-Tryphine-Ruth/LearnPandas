@@ -15,3 +15,6 @@ df = pd.DataFrame(d)
 print(df)
 
 # Create DataFrame from list of Python dictionaries
+data = [{'alex': 1, 'joe': 2}, {'ema': 5, 'dora': 10, 'alice': 20}]
+
+
